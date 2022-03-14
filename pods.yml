@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
     - name: nodeapp
-      image: kammana/nodeapp:v1
+      image: 619202462068.dkr.ecr.us-east-2.amazonaws.com/mydockerrepo1:latest
       ports:
         - containerPort: 8080
